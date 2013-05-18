@@ -6,6 +6,7 @@ The aims of PHP5 Wiki Parser are:
 *   Easy to add or remove Syntax.
 
 Index: 
+
 1.  [Setup & Configuration][2]
 2.  [Usage][3]
 3.  [Design Overview][4]
